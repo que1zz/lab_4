@@ -1,3 +1,4 @@
+
 # lab_4
 # Домашнее задание к работе 2
 
@@ -30,7 +31,7 @@
 8. **Конец**
 
 ### Блок-схема
-![Uploading lab4_schema.drawio.png…]()
+<img width="492" height="952" alt="lab4_schema drawio" src="https://github.com/user-attachments/assets/9ae6eea9-9349-4a59-9640-ecc277198394" />
 
 
 
