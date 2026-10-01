@@ -10,14 +10,14 @@ int main()
 	double t = 0.5;
 	double x, y;
 	
-	printf("\nВведите х\n");
+	printf("\nР’РІРµРґРёС‚Рµ x\n");
 	scanf("%lf", &x);
-	printf("\nВведите y\n");
+	printf("\nР’РІРµРґРёС‚Рµ y\n");
 	scanf("%lf", &y);
 	
 	if (x < 0 || 2 * y + 3 * x <= 0)
 	{
-		printf("\n Значение функции не определено\n");
+		printf("\nР—РЅР°С‡РµРЅРёРµ С„СѓРЅРєС†РёРё РЅРµ РѕРїСЂРµРґРµР»РµРЅРѕ\n");
 		return 0;
 	}
 
