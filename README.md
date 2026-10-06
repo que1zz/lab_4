@@ -31,7 +31,8 @@
 8. **Конец**
 
 ### Блок-схема
-<img width="492" height="952" alt="lab4_schema drawio" src="https://github.com/user-attachments/assets/9ae6eea9-9349-4a59-9640-ecc277198394" />
+<img width="136" height="542" alt="lab_schem drawio" src="https://github.com/user-attachments/assets/1f1b3cac-88dd-4e3d-a02c-4319a7a213e9" />
+
 
 
 
